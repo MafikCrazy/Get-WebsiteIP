@@ -1,2 +1,2 @@
 # Get-WebsiteIP
-Simple Get Website IP Adress
+Simple Get Website IP Address
